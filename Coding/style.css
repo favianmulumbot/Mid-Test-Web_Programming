@@ -1,0 +1,17 @@
+.my-button {
+  width: 100px;
+  height: 50px;
+  border: 1px solid black;
+  border-radius: 30px;
+}
+
+.button-warning {
+  background-color: burlywood;
+}
+
+.my-button-large {
+  width: 200px;
+  height: 50px;
+  border: 1px solid black;
+  border-radius: 30px;
+}
